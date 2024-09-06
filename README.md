@@ -84,7 +84,7 @@ Again you will be prompted to input the same **8 keywords** used for encryption 
 ## 📂 Project Structure
 
 ```
-myapp/
+glimmer/
 ├── cmd/
 │   ├── root.go          # Main command handling
 │   ├── encrypt.go       # Encrypt command logic
